@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563443786775.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4097254020",
+    "id" : "250954CB",
+    "lastKnownWriteTime" : 1565256409,
+    "last_content_update" : 1565256409200,
+    "path" : "~/OneDrive - Nightingale Health Ltd/training for R package creation/parent_directory/bloodstats/R/bloodmeans.R",
+    "project_path" : "R/bloodmeans.R",
+    "properties" : {
+        "cursorPosition" : "9,23",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
